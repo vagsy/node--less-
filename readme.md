@@ -18,3 +18,6 @@
     + `"start": "node ./lib/index"`
 - 将 less 安装到当前项目中，并且添加到依赖项中 
     + `npm install --save less`
+
+## 执行脚本
+- npm run start
