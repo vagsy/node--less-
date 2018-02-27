@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JepsonGithub/node--less-#readme",
   "dependencies": {
-    "less": "^2.7.3"
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5"
   }
 }
